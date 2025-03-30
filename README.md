@@ -1,34 +1,36 @@
-<h1 align="center"  style="vertical-align: middle;" >
-  <img src="https://i.ibb.co/b3yN7PJ/logo.png" alt="Logo" height="60" width="65">
-  SafeGuardHer: Women Safety App
-  
+<h1 align="center">
+  <img src="https://i.ibb.co/b3yN7PJ/logo.png" alt="SafeGuardHer Logo" height="60" width="65">
+  SafeGuardHer
 </h1>
-<p align="center"> [App is currently under re-construction] </p>
 
-<p align="center"> This is an Android-based women safety app designed to provide reliable safety tools for women. </p>
+<p align="center">A women safety mobile application that provides real-time protection and emergency response features.</p>
 
-<br>
+## 👥 Team Byte Force
+- **Siddharth Shasane**
+- **Jay Raut**
+- **Rutuja Kadam**
+- **Maherin Shaikh**
 
-<img src="https://i.ibb.co.com/yNcpRqd/Thumbnail-1.png">
+## 📱 About The Project
+SafeGuardHer is a comprehensive women safety application developed by Team Byte Force. The app provides immediate assistance during emergencies through real-time location tracking, emergency alerts, and incident recording features.
 
 ## ⚠️ Problem Statement
-Violence against women is a persistent issue, especially in South Asia, where legal protections are often insufficient. This has led to a significant increase in crimes against women, with very few resulting in convictions.
+Violence against women remains a critical concern, particularly in South Asia, where legal protections often fall short. Statistics show an alarming increase in crimes against women, with a low conviction rate. Our solution, SafeGuardHer, addresses this issue by:
+- Providing immediate emergency response
+- Enabling real-time location sharing with trusted contacts
+- Recording incident evidence automatically
+- Creating a network of safe spaces and community support
 
-Our android app aims to mitigate these issues by continuously monitoring the user's location and offering a way to share their whereabouts with trusted contacts.
-
-## 📱 Features
-- **Emergency Alert:** Users can press a panic button to send SMS with google maps location and calls to emergency contacts and services.
-- **Real-Time GPS Tracking:** Emergency contacts can track the user's location, route and captured images and audios.
-- **Incident Recording:** The app records audio and images every 5 seconds from front and back camera when the panic button is activated.
-- **Unsafe Zone Locator:** Marks areas as unsafe based on reported incidents that occured in that place.
-- **Educational Resources:** Provides safety tips and self-defense techniques.
+## 🌟 Key Features
+- **Emergency Alert System:** One-tap panic button to send location and alert trusted contacts
+- **Real-Time GPS Tracking:** Share live location with emergency contacts
+- **Incident Recording:** Automatic audio and visual evidence collection
+- **Emergency Services Integration:** Direct connection to police and emergency services
 
 ## ⚒️ Technology Stack
-
-- Figma (UI/UX Prototyping)
 - Flutter (Mobile App Development)
-- Firebase (Backend Development)
-
+- Firebase (Backend Services)
+- Google Maps API (Location Services)
 
 ## 👀 More Look & Feel
 

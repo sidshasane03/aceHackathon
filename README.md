@@ -14,7 +14,7 @@
 | Maherin Shaikh | Developer |
 
 ## 📱 About The Project
-SafeGuardHer is a comprehensive women safety application developed by Team Byte Force. The app provides immediate assistance during emergencies through real-time location tracking, emergency alerts, and incident recording features.
+Rakshak is a comprehensive women safety application developed by Team Byte Force. The app provides immediate assistance during emergencies through real-time location tracking, emergency alerts, and incident recording features.
 
 ## ⚠️ Problem Statement
 <div align="justify">

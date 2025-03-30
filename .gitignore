@@ -34,8 +34,7 @@ migrate_working_dir/
 /build/
 
 # Exclude everything in lib except main.dart
-/lib/*
-!/lib/main.dart
+
 
 # Symbolication related
 app.*.symbols
